@@ -5,3 +5,5 @@ data/Kaggle Comp/X_submission.npy
 data/Kaggle Comp/X_train.npy
 data/Kaggle Comp/X_val.npy
 GoogleNews/GoogleNews-vectors-negative300.bin.gz
+data/Kaggle Comp/test_df.pkl
+data/Kaggle Comp/train_df.pkl
